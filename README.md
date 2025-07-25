@@ -15,4 +15,4 @@ This is a stackoverflow clone built with Next.js and Appwrite. It uses the [Appw
 
 ## Getting Started  
 
-CODES AND PROJECT MENTOR: HITESH CHAUDARY 
+CODES AND PROJECT MENTOR: HITESH CHOUDHARY 
