@@ -11,7 +11,6 @@ This is a stackoverflow clone built with Next.js and Appwrite. It uses the [Appw
 -   Comments
 -   Markdown support
 -   Search functionality
--   Themes
 
 ## Getting Started  
 
